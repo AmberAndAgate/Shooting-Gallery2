@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "516909ae-e6fc-487b-8d17-dce79d1eb0e3",
+            "Value": {
+                "id": "f275ffa5-2acb-4612-b761-b1492aa954f3",
+                "resourcePath": "fonts\\font_at_game_end\\font_at_game_end.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "51a6fc59-6690-4892-984b-d49901966c3f",
             "Value": {
                 "id": "af88b39d-0ca1-43f2-9964-586b40e27055",
