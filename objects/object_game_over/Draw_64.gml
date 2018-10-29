@@ -10,9 +10,9 @@ draw_self();
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "50"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "caption" ""Final Score:""
+/// @DnDArgument : "caption" ""Final Score: ""
 /// @DnDArgument : "var" "global.end_score"
-draw_text(x + -174, y + 50, string("Final Score:") + string(global.end_score));
+draw_text(x + -174, y + 50, string("Final Score: ") + string(global.end_score));
 
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
